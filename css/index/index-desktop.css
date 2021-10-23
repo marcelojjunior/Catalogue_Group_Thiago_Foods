@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+.logos {
+  width: 100%;
+}
+
+#logo-grupo{
+  width: 20%;
+}
+
+#logo-doguelino {
+  width: 20%;
+  margin-right: 100px;
+}
+
+#logo-jantinha {
+  width: 20%;
+}
+
+#logo-casaitalia {
+  width: 20%;
+}
+
+#logo-acaiboat {
+  width: 25%;
+}
+
+#logo-mariadulceria {
+  width: 30%;
+}

@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width:500px) {
+
+  /*Smartphones*/
+
+  .logos {
+    width: 100%;
+  }
+
+  #logo-grupo{
+    width: 57%;
+  }
+
+
+  #logo-doguelino {
+    width: 47%;
+    margin-right: 30px;
+  }
+
+  #logo-jantinha {
+    width: 43%;
+  }
+
+  #logo-casaitalia {
+    width: 45%;
+  }
+
+  #logo-acaiboat {
+    width: 53%;
+  }
+
+  #logo-mariadulceria {
+    width: 65%;
+    margin-top: 20px;
+  }
+
+}

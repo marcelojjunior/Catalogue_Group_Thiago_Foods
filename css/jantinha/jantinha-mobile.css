@@ -1,0 +1,221 @@
+* {
+  box-sizing: border-box;
+}
+
+
+@media only screen and (max-width:500px) {
+
+  /*Smartphones*/
+
+a{
+  text-decoration: none;
+  font-size: 90%;
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+a:hover{
+  color:#e6e6e6;
+}
+
+#table1{
+  width: 100%;
+}
+
+#navbar1{
+  width: 15%;
+  text-align: left;
+}
+
+#navbar2{
+  width: 20%;
+  text-align: right;
+}
+
+#nomehome{
+  margin-right: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+#nomequemsomos{
+  margin-right: 20px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+#nomecardapio{
+  margin-right: 20px;
+  margin-left: 0px;
+  font-weight: bold;
+}
+
+#nomecontato{
+  margin-right: 40px;
+  font-weight: bold;
+}
+
+#logo-jantinha {
+  width: 90%;
+  margin-left: 20px;
+}
+
+#nomequemsomos2{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 200%;
+  text-shadow: 2px 2px #e6e6e6;
+}
+
+.textoquemsomos{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: justify;
+}
+
+#fachada-jantinha-mobile{
+  display: block;
+}
+
+#fachada-jantinha{
+  width: 300px;
+  display: block;
+  margin-top: 20px;
+}
+
+#fachada-jantinha-sumir{
+  display: none;
+}
+
+#nomecardapio2{
+  font-size: 200%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  text-shadow: 3px 3px #cc9966;
+}
+
+#linha1-descktop{
+  display: none;
+}
+
+#linha2-descktop{
+  display: none;
+}
+
+#linha1-tablet{
+  display: none;
+}
+
+#linha2-tablet{
+  display: none;
+}
+
+#linha3-tablet{
+  display: none;
+}
+
+#linha1-smartphone{
+  display: block;
+}
+
+#linha2-smartphone{
+  display: block;
+}
+
+#linha3-smartphone{
+  display: block;
+}
+
+#linha4-smartphone{
+  display: block;
+}
+
+#linha5-smartphone{
+  display: block;
+}
+
+#linha6-smartphone{
+  display: block;
+}
+
+.icones{
+  border-radius: 5%;
+  background-color: #cc9966;
+  border: 7px solid #e6e6e6;
+}
+
+.nomedosicones{
+  font-size: 130%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px #e6e6e6;
+}
+
+#espeto-carne{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#espeto-frango{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#pao-de-alho{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#espeto-bacon{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#espeto-completo-carne{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#espeto-completo-frangoBa{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#img-jantinha-mobile{
+  display: block;
+}
+
+#img-jantinha{
+  width: 80%;
+  margin-top: 5%;
+  border-radius: 5%;
+  margin-bottom: 5%;
+}
+
+#img-jantinha-sumir{
+  display: none;
+}
+
+#nomecontato2{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 200%;
+  text-shadow: 2px 2px #e6e6e6;
+}
+
+}

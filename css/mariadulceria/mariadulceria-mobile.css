@@ -1,0 +1,221 @@
+* {
+  box-sizing: border-box;
+}
+
+
+@media only screen and (max-width:500px) {
+
+  /*Smartphones*/
+
+a{
+  text-decoration: none;
+  font-size: 90%;
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+a:hover{
+  color:#cceeff;
+}
+
+#table1{
+  width: 100%;
+}
+
+#navbar1{
+  width: 15%;
+  text-align: left;
+}
+
+#navbar2{
+  width: 20%;
+  text-align: right;
+}
+
+#nomehome{
+  margin-right: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+#nomequemsomos{
+  margin-right: 20px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+#nomecardapio{
+  margin-right: 20px;
+  margin-left: 0px;
+  font-weight: bold;
+}
+
+#nomecontato{
+  margin-right: 40px;
+  font-weight: bold;
+}
+
+#logo-mariadulceria {
+  width: 110%;
+  margin-left: 0px;
+}
+
+#nomequemsomos2{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 200%;
+  text-shadow: 2px 2px #cceeff;
+}
+
+.textoquemsomos{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: justify;
+}
+
+#ambiente-mariadulceria-mobile{
+  display: block;
+}
+
+#ambiente-mariadulceria{
+  width: 300px;
+  border-radius: 5%;
+  margin-left: 0px;
+}
+
+#ambiente-mariadulceria-sumir{
+  display: none;
+}
+
+#nomecardapio2{
+  font-size: 200%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  text-shadow: 3px 3px #ffffcc;
+}
+
+#linha1-descktop{
+  display: none;
+}
+
+#linha2-descktop{
+  display: none;
+}
+
+#linha1-tablet{
+  display: none;
+}
+
+#linha2-tablet{
+  display: none;
+}
+
+#linha3-tablet{
+  display: none;
+}
+
+#linha1-smartphone{
+  display: block;
+}
+
+#linha2-smartphone{
+  display: block;
+}
+
+#linha3-smartphone{
+  display: block;
+}
+
+#linha4-smartphone{
+  display: block;
+}
+
+#linha5-smartphone{
+  display: block;
+}
+
+#linha6-smartphone{
+  display: block;
+}
+
+.icones{
+  border-radius: 5%;
+  background-color: #ffffcc;
+  border: 7px solid #cceeff;
+}
+
+.nomedosicones{
+  font-size: 130%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px #e6e6e6;
+}
+
+#bolo-castanha-crocante{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#bolo-brigadeiro{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#bolo-amanteigado{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#torta-nozes{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#bolo-churros{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#coxinha-caranguejo{
+  border-radius: 5%;
+  width: 330px;
+  height: 300px;
+  margin-top: 5%;
+}
+
+#img-mariadulceria-sumir{
+  display: none;
+}
+
+#img-mariadulceria-mobile{
+  display: block;
+}
+
+#img-mariadulceria{
+  width: 80%;
+  margin-top: 5%;
+  border-radius: 5%;
+  margin-bottom: 5%;
+}
+
+#nomecontato2{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 200%;
+  text-shadow: 2px 2px #e6e6e6;
+}
+
+}
